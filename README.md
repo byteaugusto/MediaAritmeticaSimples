@@ -21,7 +21,9 @@ Linguagem: C#
 Plataforma: .NET Framework / Windows Forms
 Ambiente de desenvolvimento: Visual Studio
 📷 Print da interface
+
 <img width="353" height="364" alt="image" src="https://github.com/user-attachments/assets/82773edf-5c2b-4c1d-9c5a-173f6920be7f" />
+
 Campos inválidos aparecem em vermelho.
 
 👨‍💻 Autor
