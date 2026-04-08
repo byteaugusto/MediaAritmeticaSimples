@@ -1,4 +1,4 @@
-# MediaAritmeticaSimples Um projeto simples em C# com Windows Forms que calcula a média aritmética de três valores inseridos pelo usuário. O programa valida os valores para garantir que estão entre 0 e 10, destacando campos inválidos em vermelho.
+# Media Aritmetica Simples. Um projeto simples em C# com Windows Forms que calcula a média aritmética de três valores inseridos pelo usuário. O programa valida os valores para garantir que estão entre 0 e 10, destacando campos inválidos em vermelho.
 
 Ideal para iniciantes em C# e Windows Forms, serve como exemplo de validação de entrada, interação com o usuário e lógica de cálculo.
 
